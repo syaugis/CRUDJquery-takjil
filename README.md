@@ -1,2 +1,2 @@
-# CRUDJquery-takjil
+# Simple CRUD Jquery takjil
 UTS Pemrograman Web
